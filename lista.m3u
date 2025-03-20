@@ -57,5 +57,7 @@ https://edge-hls.doppiocdn.live/hls/193800305/master/193800305_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/183366588/master/183366588_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1,seraphine23
 https://edge-hls.doppiocdn.live/hls/68330290/master/68330290_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1, Transmissão
+#EXTINF:-1, TransmissÃ£o
 https://b-hls-24.doppiocdn.live/hls/195223341/195223341_720p.m3u8?playlistType=lowLatency&_HLS_msn=584&_HLS_part=0
+#EXTINF:-1, Transmissão
+https://b-hls-24.doppiocdn.live/hls/195223341/195223341_1080p.m3u8?playlistType=lowLatency&_HLS_msn=952&_HLS_part=0
