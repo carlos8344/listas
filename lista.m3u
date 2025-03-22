@@ -1,73 +1,11 @@
 #EXTM3U
-#EXTINF:-1,yummi__priv
-https://edge-hls.doppiocdn.live/hls/171591213/master/171591213_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Lilmuh_
-https://edge-hls.doppiocdn.live/hls/79216321/master/79216321_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,missbelly36
-https://edge-hls.doppiocdn.live/hls/193450001/master/193450001_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Mell_fefffer
-https://edge-hls.doppiocdn.live/hls/169385954/master/169385954_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,PollyCrush
-https://edge-hls.doppiocdn.live/hls/154468209/master/154468209_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,jhenysantos
-https://edge-hls.doppiocdn.live/hls/170652785/master/170652785_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Sydney_Swan
-https://edge-hls.doppiocdn.live/hls/110614306/master/110614306_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,-m00n-
-https://edge-hls.doppiocdn.live/hls/86016571/master/86016571_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,pretty_architect
-https://edge-hls.doppiocdn.live/hls/74325330/master/74325330_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,charmillebr
-https://edge-hls.doppiocdn.live/hls/146596896/master/146596896_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,leonasafira
-https://edge-hls.doppiocdn.live/hls/104664548/master/104664548_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Mariaapimentinha
-https://edge-hls.doppiocdn.live/hls/184250152/master/184250152_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/46742618/master/46742618_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/194666815/master/194666815_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/129690074/master/129690074_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/93463499/master/93463499_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/164633489/master/164633489_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/119599903/master/119599903_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/64682091/master/64682091_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/174089424/master/174089424_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,
-https://edge-hls.doppiocdn.live/hls/103379607/master/103379607_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Morguissz
-https://edge-hls.doppiocdn.live/hls/177136921/master/177136921_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Gipoltergeist
-https://edge-hls.doppiocdn.live/hls/95300128/master/95300128_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Geozinhaa
-https://edge-hls.doppiocdn.live/hls/172714096/master/172714096_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,---Red-haired-Fox---
-https://edge-hls.doppiocdn.live/hls/172239931/master/172239931_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Meganlola
-https://edge-hls.doppiocdn.live/hls/89199270/master/89199270_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Htinhaa
-https://edge-hls.doppiocdn.live/hls/193800305/master/193800305_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,Mellima2025
-https://edge-hls.doppiocdn.live/hls/183366588/master/183366588_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1,seraphine23
-https://edge-hls.doppiocdn.live/hls/68330290/master/68330290_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1, TransmissÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o
-https://b-hls-24.doppiocdn.live/hls/195223341/195223341_720p.m3u8?playlistType=lowLatency&_HLS_msn=584&_HLS_part=0
-#EXTINF:-1, TransmissÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o
-https://b-hls-24.doppiocdn.live/hls/195223341/195223341_1080p.m3u8?playlistType=lowLatency&_HLS_msn=952&_HLS_part=0
-#EXTINF:-1, TransmissÃÂÃÂÃÂÃÂ£o
-https://b-hls-03.doppiocdn.live/hls/194968965/194968965_1080p.m3u8?playlistType=lowLatency&_HLS_msn=1199&_HLS_part=0
-#EXTINF:-1, TransmissÃÂÃÂ£o
-https://b-hls-24.doppiocdn.live/hls/186719925/186719925_720p.m3u8?playlistType=lowLatency&_HLS_msn=5546&_HLS_part=0
-#EXTINF:-1, TransmissÃÂ£o
-https://b-hls-03.doppiocdn.live/hls/143278324/143278324_720p.m3u8?playlistType=lowLatency&_HLS_msn=5032&_HLS_part=0
-#EXTINF:-1, TransmissÃ£o
-https://b-hls-03.doppiocdn.live/hls/143278324/143278324_1080p.m3u8?playlistType=lowLatency&_HLS_msn=5129&_HLS_part=0
-#EXTINF:-1, Transmissão
-https://b-hls-11.doppiocdn.live/hls/191451211/191451211_720p.m3u8?playlistType=lowLatency&_HLS_msn=700&_HLS_part=0
+https://edge-hls.doppiocdn.live/hls/195254866/master/195254866_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/188874526/master/188874526_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/140752869/master/140752869_auto.m3u8?maxHeight=959&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/161331136/master/161331136_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/71481132/master/71481132_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/133194331/master/133194331_auto.m3u8?maxHeight=959&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/184478568/master/184478568_auto.m3u8?maxHeight=959&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/124172751/master/124172751_auto.m3u8?maxHeight=959&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/195608161/master/195608161_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/150712992/master/150712992_auto.m3u8?maxHeight=959&playlistType=lowLatency
