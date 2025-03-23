@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/6/f168499ea1372c1977dfce80c4743577-full" tvg-name="MessyNastyQueen" group-title="Estados Unidos", MessyNastyQueen
-https://edge-hls.doppiocdn.live/hls/52427699/master/52427699_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/f/d/7fdd37a87fbaaeb19e89b81ad46323d5-full" tvg-name="Maria-Ponto" group-title="Portugal", Maria-Ponto
-https://edge-hls.doppiocdn.live/hls/33402138/master/33402138_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/6/c/06c87280364ecd062be3625363db3c0f-full" tvg-name="Maria-Ponto" group-title="Portugal", Maria-Ponto
-https://edge-hls.doppiocdn.live/hls/192909543/master/192909543_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/8/2/282146029e1343a8cb37474ada47eccf-full" tvg-name="Lunababexoxo" group-title="Portugal", Lunababexoxo
-https://edge-hls.doppiocdn.live/hls/118063581/master/118063581_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/6/7/5677ddcdfd696710f52c6883ede7a8cd-full" tvg-name="Maria-Ponto" group-title="Portugal", Maria-Ponto
-https://edge-hls.doppiocdn.live/hls/120801034/master/120801034_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/f/9/ef9f4b9c0ec3b5beb4603057f1c2bd4d-full" tvg-name="By_Aninha" group-title="Brasil", By_Aninha
-https://edge-hls.doppiocdn.live/hls/184904062/master/184904062_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/d/a/0dae00da7f51a257761969f8847d843e-full" tvg-name="Lilmuh_" group-title="Brasil", Lilmuh_
-https://edge-hls.doppiocdn.live/hls/71481132/master/71481132_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/3/4/f3468cd1c6e93f27bc44a90d02482766-full" tvg-name="Lilmuh_" group-title="Brasil", Lilmuh_
-https://edge-hls.doppiocdn.live/hls/150712992/master/150712992_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/2/1/e21d4788c6f222d277c2a2bb5f4d7979-full" tvg-name="PecadOriginal" group-title="Brasil", PecadOriginal
-https://edge-hls.doppiocdn.live/hls/124172751/master/124172751_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/f/b/6fbc01333435cd43515b716549eac5e4-full" tvg-name="Candy_Queenn" group-title="Brasil", Candy_Queenn
-https://edge-hls.doppiocdn.live/hls/195254866/master/195254866_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/1/7/517358ed8a304550c41834608cfac420-full" tvg-name="Nathrickkk" group-title="Brasil", Nathrickkk
+https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/0/7/907e5d90eca4f4a1daee43dd92614f82-full" tvg-name="CelinayHanck" group-title="Colômbia", CelinayHanck
+https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/0/7/907e5d90eca4f4a1daee43dd92614f82-full" tvg-name="CelinayHanck" group-title="Colômbia", CelinayHanck
+https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Mirellysbs1" group-title="Brasil", Mirellysbs1
+https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Mirellysbs1" group-title="Brasil", Mirellysbs1
+https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Mirellysbs1" group-title="Brasil", Mirellysbs1
+https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" tvg-name="CamilleHottt" group-title="Brasil", CamilleHottt
+https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" tvg-name="CamilleHottt" group-title="Brasil", CamilleHottt
+https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" tvg-name="CamilleHottt" group-title="Brasil", CamilleHottt
+https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7affb08f67e5134a82dafa4375b83935-full" tvg-name="melangelo17" group-title="Brasil", melangelo17
+https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7affb08f67e5134a82dafa4375b83935-full" tvg-name="melangelo17" group-title="Brasil", melangelo17
+https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7affb08f67e5134a82dafa4375b83935-full" tvg-name="melangelo17" group-title="Brasil", melangelo17
+https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
