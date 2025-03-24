@@ -1,25 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/1/7/517358ed8a304550c41834608cfac420-full" tvg-name="Nathrickkk" group-title="Brasil", Nathrickkk
-https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/0/7/907e5d90eca4f4a1daee43dd92614f82-full" tvg-name="CelinayHanck" group-title="Colômbia", CelinayHanck
-https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/0/7/907e5d90eca4f4a1daee43dd92614f82-full" tvg-name="CelinayHanck" group-title="Colômbia", CelinayHanck
-https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Mirellysbs1" group-title="Brasil", Mirellysbs1
-https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Mirellysbs1" group-title="Brasil", Mirellysbs1
-https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Mirellysbs1" group-title="Brasil", Mirellysbs1
-https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" tvg-name="CamilleHottt" group-title="Brasil", CamilleHottt
-https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" tvg-name="CamilleHottt" group-title="Brasil", CamilleHottt
-https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" tvg-name="CamilleHottt" group-title="Brasil", CamilleHottt
-https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7affb08f67e5134a82dafa4375b83935-full" tvg-name="melangelo17" group-title="Brasil", melangelo17
-https://edge-hls.doppiocdn.live/hls/169140973/master/169140973_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7affb08f67e5134a82dafa4375b83935-full" tvg-name="melangelo17" group-title="Brasil", melangelo17
-https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7affb08f67e5134a82dafa4375b83935-full" tvg-name="melangelo17" group-title="Brasil", melangelo17
-https://edge-hls.doppiocdn.live/hls/195126876/master/195126876_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/example.jpg",Filme de Teste
+https://watch.brplayer.cc/stream/12345.m3u8
