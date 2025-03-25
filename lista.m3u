@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/5/e/85e7ab86973d0f617b6c2d0c360b3882-full" tvg-name="Larizalima" group-title="Brasil", Larizalima
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/5/e/85e7ab86973d0f617b6c2d0c360b3882-full" tvg-name="mullermia" group-title="Brasil", mullermia
 https://edge-hls.doppiocdn.live/hls/195835128/master/195835128_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/4/5/e45652163dc9d34a1bdd7c399c9bc33e-full" tvg-name="biasavelli" group-title="Brasil", biasavelli
-https://edge-hls.doppiocdn.live/hls/131690730/master/131690730_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/4/5/e45652163dc9d34a1bdd7c399c9bc33e-full" tvg-name="biasavelli" group-title="Brasil", biasavelli
-https://edge-hls.doppiocdn.live/hls/128718869/master/128718869_auto.m3u8?maxHeight=959&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/9/7/397ff74be989110ae6d6ad7b557e5f46-full" tvg-name="sorafire" group-title="Brasil", sorafire
+https://edge-hls.doppiocdn.live/hls/78377716/master/78377716_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/9/7/397ff74be989110ae6d6ad7b557e5f46-full" tvg-name="sorafire" group-title="Brasil", sorafire
+https://edge-hls.doppiocdn.live/hls/31031972/master/31031972_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/9/7/397ff74be989110ae6d6ad7b557e5f46-full" tvg-name="sorafire" group-title="Brasil", sorafire
+https://edge-hls.doppiocdn.live/hls/128718869/master/128718869_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/2/1/e21d4788c6f222d277c2a2bb5f4d7979-full" tvg-name="Beca-Kevin" group-title="Brasil", Beca-Kevin
+https://edge-hls.doppiocdn.live/hls/124172751/master/124172751_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/2/1/e21d4788c6f222d277c2a2bb5f4d7979-full" tvg-name="Beca-Kevin" group-title="Brasil", Beca-Kevin
+https://edge-hls.doppiocdn.live/hls/150509662/master/150509662_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/b/4/2b42a7e9cce261d77136d139cc32b870-full" tvg-name="Beca-Kevin" group-title="Brasil", Beca-Kevin
+https://edge-hls.doppiocdn.live/hls/104756166/master/104756166_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/b/4/2b42a7e9cce261d77136d139cc32b870-full" tvg-name="Beca-Kevin" group-title="Brasil", Beca-Kevin
+https://edge-hls.doppiocdn.live/hls/194162828/master/194162828_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/d/0/7d0926ab4b7cf9213b82ad586ad2210d-full" tvg-name="ana_babby" group-title="Brasil", ana_babby
+https://edge-hls.doppiocdn.live/hls/194236840/master/194236840_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/d/0/7d0926ab4b7cf9213b82ad586ad2210d-full" tvg-name="ana_babby" group-title="Brasil", ana_babby
+https://edge-hls.doppiocdn.live/hls/136113816/master/136113816_auto.m3u8?playlistType=lowLatency
