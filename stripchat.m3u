@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/9/1/29179154750c408e225384628729b66b-full" tvg-name="marce_algara", marce_algara
+https://edge-hls.doppiocdn.live/hls/150979395/master/150979395_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/d/0/cd0ce3fb36a93fdfa4d316ed97331d13-full" tvg-name="Mile_Loucrath", Mile_Loucrath
+https://edge-hls.doppiocdn.live/hls/196132026/master/196132026_auto.m3u8?maxHeight=1079&playlistType=lowLatency
