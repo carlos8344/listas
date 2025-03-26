@@ -3,3 +3,5 @@
 https://edge-hls.doppiocdn.live/hls/150979395/master/150979395_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/d/0/cd0ce3fb36a93fdfa4d316ed97331d13-full" tvg-name="Mile_Loucrath", Mile_Loucrath
 https://edge-hls.doppiocdn.live/hls/196132026/master/196132026_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/b/2/bb2b254bfcab4df557e191be79e42ce2-full" tvg-name="Lovely_Girls18", Lovely_Girls18
+https://edge-hls.doppiocdn.live/hls/176320976/master/176320976_auto.m3u8?playlistType=lowLatency
