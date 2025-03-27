@@ -361,3 +361,15 @@ https://edge-hls.doppiocdn.live/hls/193408804/master/193408804_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/172785860/master/172785860_auto.m3u8?maxHeight=719&playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/7/e/77ef35f419f0961ad842b9275ef49a2f-full" tvg-name="Moon_Water__", Moon_Water__
 https://edge-hls.doppiocdn.live/hls/123914136/master/123914136_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/4/a/b4aad83d2cb132942995cb1c7819668b-full" tvg-name="BellaRoux", BellaRoux
+https://edge-hls.doppiocdn.live/hls/195337908/master/195337908_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/b/a/eba8b09067ebc7587e6942242f8effaa-full" tvg-name="LauraCadwell", LauraCadwell
+https://edge-hls.doppiocdn.live/hls/152577129/master/152577129_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/7/2/3725c098232f43714995f2d6840d59b1-full" tvg-name="WALESKABBW_ASS", WALESKABBW_ASS
+https://edge-hls.doppiocdn.live/hls/195347672/master/195347672_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/7/e/a7eea9ce917ea9c335c2007fc3a17206-full" tvg-name="emma_fior", emma_fior
+https://edge-hls.doppiocdn.live/hls/186023766/master/186023766_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/4/e/c4eb2dc3c7783aa007f50550874a6500-full" tvg-name="Tiara18", Tiara18
+https://edge-hls.doppiocdn.live/hls/170527394/master/170527394_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/1/2/41256117c492e1560822e0a3c93d822c-full" tvg-name="Tammy_soon", Tammy_soon
+https://edge-hls.doppiocdn.live/hls/169980168/master/169980168_auto.m3u8?playlistType=lowLatency
