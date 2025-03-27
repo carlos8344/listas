@@ -163,3 +163,13 @@ https://edge-hls.doppiocdn.live/hls/173863051/master/173863051_auto.m3u8?maxHeig
 https://edge-hls.doppiocdn.live/hls/169263981/master/169263981_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/0/7/d07f1e680489a4712bf1812951c0048a-full" tvg-name="candymia68", candymia68
 https://edge-hls.doppiocdn.live/hls/105250533/master/105250533_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/0/c/c0ce3e824687a1cf1fb8c25b56d45a1b-full" tvg-name="my_friends_mom", my_friends_mom
+https://edge-hls.doppiocdn.live/hls/86441200/master/86441200_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/0/d/50d927edc6a9efdb4b1f38e196ce2612-full" tvg-name="star_anastasia", star_anastasia
+https://edge-hls.doppiocdn.live/hls/153235032/master/153235032_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/9/1/e913bae026d7375ab52a60769c161e16-full" tvg-name="ZuryPark", ZuryPark
+https://edge-hls.doppiocdn.live/hls/194388837/master/194388837_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/0/d/20df73fea246f6bea7834d75f90903ce-full" tvg-name="GingerJoyce", GingerJoyce
+https://edge-hls.doppiocdn.live/hls/194246280/master/194246280_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/3/f/d3fb6c365994c19ecb7cc9aa6497e3ab-full" tvg-name="CelinayHanck", CelinayHanck
+https://edge-hls.doppiocdn.live/hls/75871235/master/75871235_auto.m3u8?maxHeight=1079&playlistType=lowLatency
