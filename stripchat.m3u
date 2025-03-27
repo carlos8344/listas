@@ -247,3 +247,17 @@ https://edge-hls.doppiocdn.live/hls/146188681/master/146188681_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/193035698/master/193035698_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/f/9/5f95e05ab57a140fee17b74bebed7466-full" tvg-name="LUNA_ANDROMEDA", LUNA_ANDROMEDA
 https://edge-hls.doppiocdn.live/hls/194936363/master/194936363_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/f/d/4fdf7590b89db5cf9c739b7ff8e2517a-full" tvg-name="Emma_bloom__", Emma_bloom__
+https://edge-hls.doppiocdn.live/hls/194489580/master/194489580_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/3/e/93eff56ab2822af89872a37596e6ede5-full" tvg-name="valentina-diiaz", valentina-diiaz
+https://edge-hls.doppiocdn.live/hls/195481501/master/195481501_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/7/2/472817edc1638f85aede53d03412dfbe-full" tvg-name="Enya_1", Enya_1
+https://edge-hls.doppiocdn.live/hls/158980643/master/158980643_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/0/2/3026176e801ffb6f66ffb3c952318045-full" tvg-name="AriatnaTorres1", AriatnaTorres1
+https://edge-hls.doppiocdn.live/hls/196204615/master/196204615_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/f/8/df8de9b3adc0efbcd3a2d4292c40a6ab-full" tvg-name="Dakota_Evanss", Dakota_Evanss
+https://edge-hls.doppiocdn.live/hls/175412748/master/175412748_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/7/6/576cfa7a7b06867e6f49ac38e2012b1f-full" tvg-name="Vantablack_BDSMShow", Vantablack_BDSMShow
+https://edge-hls.doppiocdn.live/hls/110006981/master/110006981_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/c/8/9c8515a0c622faa2d21ae24b3bb5f890-full" tvg-name="ggmansion", ggmansion
+https://edge-hls.doppiocdn.live/hls/37245911/master/37245911_auto.m3u8?playlistType=lowLatency
