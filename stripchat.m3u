@@ -435,3 +435,9 @@ https://edge-hls.doppiocdn.live/hls/71121568/master/71121568_auto.m3u8?playlistT
 https://edge-hls.doppiocdn.live/hls/155243858/master/155243858_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/c/c/9cc0b91f7c41a42f8a1f84d1bd2563f0-full" tvg-name="Maaiitee", Maaiitee
 https://edge-hls.doppiocdn.live/hls/116679705/master/116679705_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/e/4/de443c477c6dc4e59a9674ffa68fcadb-full" tvg-name="violett_coonnor_", violett_coonnor_
+https://edge-hls.doppiocdn.live/hls/194993690/master/194993690_auto.m3u8?maxHeight=719&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/7/7/6771f2ec617012be7324a26b12474160-full" tvg-name="valentina_fi", valentina_fi
+https://edge-hls.doppiocdn.live/hls/39551155/master/39551155_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/a/6/8a61b4cff52ef006d610275b339ca40f-full" tvg-name="lady_ni_", lady_ni_
+https://edge-hls.doppiocdn.live/hls/144485816/master/144485816_auto.m3u8?playlistType=lowLatency
