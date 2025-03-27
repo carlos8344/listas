@@ -173,3 +173,11 @@ https://edge-hls.doppiocdn.live/hls/194388837/master/194388837_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/194246280/master/194246280_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/3/f/d3fb6c365994c19ecb7cc9aa6497e3ab-full" tvg-name="CelinayHanck", CelinayHanck
 https://edge-hls.doppiocdn.live/hls/75871235/master/75871235_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/6/5/465b2336c99da9e48018d9d5c5efc678-full" tvg-name="Aprill_Moonn", Aprill_Moonn
+https://edge-hls.doppiocdn.live/hls/195368958/master/195368958_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/3/d/83d3a0f406b98365230ac8e29559d9d9-full" tvg-name="candytetona69", candytetona69
+https://edge-hls.doppiocdn.live/hls/195124716/master/195124716_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/7/9/879b19cedf3fc46c2e78655370fc4186-full" tvg-name="nathassa_grant", nathassa_grant
+https://edge-hls.doppiocdn.live/hls/163167291/master/163167291_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/9/0/690d4d30a3ffd293c3c6f52d74fce5d7-full" tvg-name="CarolinePolsen", CarolinePolsen
+https://edge-hls.doppiocdn.live/hls/185242948/master/185242948_auto.m3u8?playlistType=lowLatency
