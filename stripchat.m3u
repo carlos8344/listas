@@ -221,3 +221,13 @@ https://edge-hls.doppiocdn.live/hls/154404158/master/154404158_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/161081275/master/161081275_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/2/f/12f75361ef458793d495d15938e6410d-full" tvg-name="ThyaraJhons", ThyaraJhons
 https://edge-hls.doppiocdn.live/hls/148528548/master/148528548_auto.m3u8?maxHeight=719&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/e/f/eef6e0255fb2ab84c67f9805cb65d20b-full" tvg-name="Nicole_blake_", Nicole_blake_
+https://edge-hls.doppiocdn.live/hls/194278024/master/194278024_auto.m3u8?maxHeight=719&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/7/c/77c5f48430aead2f02bb04b294a2c53e-full" tvg-name="PandoraB_", PandoraB_
+https://edge-hls.doppiocdn.live/hls/145125501/master/145125501_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/9/1/29179154750c408e225384628729b66b-full" tvg-name="marce_algara", marce_algara
+https://edge-hls.doppiocdn.live/hls/150979395/master/150979395_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/0/5/20523e917043440c916e98ec572c5073-full" tvg-name="crazylatina_", crazylatina_
+https://edge-hls.doppiocdn.live/hls/114895837/master/114895837_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/f/d/1fdbe52a04e142e5fbdb93cb2fc9cd91-full" tvg-name="Angeelus2", Angeelus2
+https://edge-hls.doppiocdn.live/hls/103234090/master/103234090_auto.m3u8?playlistType=lowLatency
