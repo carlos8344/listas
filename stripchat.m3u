@@ -231,3 +231,19 @@ https://edge-hls.doppiocdn.live/hls/150979395/master/150979395_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/114895837/master/114895837_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/f/d/1fdbe52a04e142e5fbdb93cb2fc9cd91-full" tvg-name="Angeelus2", Angeelus2
 https://edge-hls.doppiocdn.live/hls/103234090/master/103234090_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/7/f/77f7bc1858d114bde0dc0ff7b07212cf-full" tvg-name="miia__baker", miia__baker
+https://edge-hls.doppiocdn.live/hls/147835188/master/147835188_auto.m3u8?maxHeight=767&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/b/a/8ba0d8d8b0bc6f1db9aa42709afb4ab5-full" tvg-name="AnastasiaBluess", AnastasiaBluess
+https://edge-hls.doppiocdn.live/hls/195394560/master/195394560_auto.m3u8?maxHeight=719&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/e/f/9ef42f7dc158f3efc4e713e9356f5e03-full" tvg-name="AbbieJoness_", AbbieJoness_
+https://edge-hls.doppiocdn.live/hls/195475842/master/195475842_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/2/d/92d1616dd5b6c49cab480e97cbd45645-full" tvg-name="Aitana_Hilton_", Aitana_Hilton_
+https://edge-hls.doppiocdn.live/hls/185427797/master/185427797_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/a/e/cae7f811d31acd005421b6c3d1d1f398-full" tvg-name="valerialoret", valerialoret
+https://edge-hls.doppiocdn.live/hls/190852533/master/190852533_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/8/b/38ba08c7d8e461cb8640bc141f42a098-full" tvg-name="Bianca_zaens2", Bianca_zaens2
+https://edge-hls.doppiocdn.live/hls/146188681/master/146188681_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/8/0/c8092a6d7c3304f7657b269015ca5c9d-full" tvg-name="ZaraLuuv", ZaraLuuv
+https://edge-hls.doppiocdn.live/hls/193035698/master/193035698_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/f/9/5f95e05ab57a140fee17b74bebed7466-full" tvg-name="LUNA_ANDROMEDA", LUNA_ANDROMEDA
+https://edge-hls.doppiocdn.live/hls/194936363/master/194936363_auto.m3u8?playlistType=lowLatency
