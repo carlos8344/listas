@@ -529,3 +529,15 @@ https://edge-hls.doppiocdn.live/hls/106264571/master/106264571_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/83013052/master/83013052_160p_blurred.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/c/f/5cfa1cdfb6cbc7be13176f55c4ef7479-full" tvg-name="Kathia_fx", Kathia_fx
 https://edge-hls.doppiocdn.live/hls/189939808/master/189939808_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/e/5/8e5ee0e849add719cb1bbfa48271e16b-full" tvg-name="Asia_T18", Asia_T18
+https://edge-hls.doppiocdn.live/hls/182397841/master/182397841_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/b/c/6bceacfe0b00f8c3840902fd0d839357-full" tvg-name="marie_miller_", marie_miller_
+https://edge-hls.doppiocdn.live/hls/174960321/master/174960321_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/4/2/542ecacf0568b2b9fad95cba722b773b-full" tvg-name="Dulce_Quintana", Dulce_Quintana
+https://edge-hls.doppiocdn.live/hls/195340830/master/195340830_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/8/3/083b72974fe08883d0456eb626e3a40a-full" tvg-name="Brihanna_@xh", Brihanna_@xh
+https://edge-hls.doppiocdn.live/hls/194931092/master/194931092_auto.m3u8?maxHeight=719&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/b/6/ab666d83921f0b4de61ce46544c845ec-full" tvg-name="Liss__", Liss__
+https://edge-hls.doppiocdn.live/hls/105665103/master/105665103_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/6/7/1677281ab20aa7dcf8fed84c36bbdf2e-full" tvg-name="samatha_collins", samatha_collins
+https://edge-hls.doppiocdn.live/hls/157406598/master/157406598_auto.m3u8?playlistType=lowLatency
