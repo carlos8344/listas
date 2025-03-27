@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/3/c/a3c2b859374a85ee1425dabba33b0335-full" tvg-name="DIANITA_1988", DIANITA_1988
-https://edge-hls.doppiocdn.live/hls/44985172/master/44985172_160p_blurred.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/44985172/master/44985172_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/5/4/c542e66cf79ca102292d59d6019f4818-full" tvg-name="CataleyaRusso", CataleyaRusso
+https://edge-hls.doppiocdn.live/hls/104686090/master/104686090_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/d/9/cd98ee0bb24a355c7e85f3573413eb19-full" tvg-name="lariic", lariic
-https://edge-hls.doppiocdn.live/hls/173948557/master/173948557_auto.m3u8?maxHeight=719&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/173948557/master/173948557_160p_blurred.m3u8?maxHeight=719&playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/8/4/9844f2aef74cd57f500663ff7aa09ba0-full" tvg-name="Alirawrz", Alirawrz
 https://edge-hls.doppiocdn.live/hls/13971979/master/13971979_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/7/03787cb9134baa4f3b41f6f81fb210a7-full" tvg-name="Nathrickkk", Nathrickkk
+https://edge-hls.doppiocdn.live/hls/159295983/master/159295983_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/d/2/0d2e9b079a56f4bb4c657716c8d33808-full" tvg-name="sexi_noemi", sexi_noemi
 https://edge-hls.doppiocdn.live/hls/71352432/master/71352432_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/3/d/33d3752f8bcf4933b09f3a8ec6c24f2c-full" tvg-name="BrendaCrean", BrendaCrean
@@ -12,6 +16,6 @@ https://edge-hls.doppiocdn.live/hls/21357766/master/21357766_auto.m3u8?playlistT
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/0/3/e039ba9b959d2effb6edb2429597092a-full" tvg-name="Milena-1", Milena-1
 https://edge-hls.doppiocdn.live/hls/136860181/master/136860181_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/6/9/e691f724230926741823cb3cd78e7b5f-full" tvg-name="valmon21", valmon21
-https://edge-hls.doppiocdn.live/hls/155175061/master/155175061_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/155175061/master/155175061_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/8/a/c8a2257eed57a4c70ace6d4e3b6f5022-full" tvg-name="Matilda_ruso_", Matilda_ruso_
-https://edge-hls.doppiocdn.live/hls/195258356/master/195258356_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.live/hls/195258356/master/195258356_auto.m3u8?maxHeight=959&playlistType=lowLatency
