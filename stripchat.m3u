@@ -261,3 +261,15 @@ https://edge-hls.doppiocdn.live/hls/175412748/master/175412748_auto.m3u8?maxHeig
 https://edge-hls.doppiocdn.live/hls/110006981/master/110006981_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/c/8/9c8515a0c622faa2d21ae24b3bb5f890-full" tvg-name="ggmansion", ggmansion
 https://edge-hls.doppiocdn.live/hls/37245911/master/37245911_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/d/f/6dfb6fc919dfd6b1dcbf9ae54c068590-full" tvg-name="Rosa_Warreen_", Rosa_Warreen_
+https://edge-hls.doppiocdn.live/hls/195366202/master/195366202_auto.m3u8?maxHeight=959&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/2/9/6293333e9405dd82dae0ce595a5107a5-full" tvg-name="Abril_Luv", Abril_Luv
+https://edge-hls.doppiocdn.live/hls/93048660/master/93048660_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/4/8/2485c01292fc8acee159983820ea3b33-full" tvg-name="dayana_and_martin", dayana_and_martin
+https://edge-hls.doppiocdn.live/hls/194499664/master/194499664_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/c/0/4c02d1542af5e340199258ae66ed3a95-full" tvg-name="Luna_kiss18", Luna_kiss18
+https://edge-hls.doppiocdn.live/hls/169941918/master/169941918_auto.m3u8?maxHeight=719&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/f/d/dfd6e269df05a4b0ca8e523be2e9713f-full" tvg-name="DanielaHub", DanielaHub
+https://edge-hls.doppiocdn.live/hls/122772397/master/122772397_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/d/9/9d9d3ca44ac487f5e4c76af6a67dfc3a-full" tvg-name="SofiDavid", SofiDavid
+https://edge-hls.doppiocdn.live/hls/181304416/master/181304416_auto.m3u8?maxHeight=719&playlistType=lowLatency
