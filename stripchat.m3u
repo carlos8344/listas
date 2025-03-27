@@ -181,3 +181,17 @@ https://edge-hls.doppiocdn.live/hls/195124716/master/195124716_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/163167291/master/163167291_auto.m3u8?maxHeight=1079&playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/9/0/690d4d30a3ffd293c3c6f52d74fce5d7-full" tvg-name="CarolinePolsen", CarolinePolsen
 https://edge-hls.doppiocdn.live/hls/185242948/master/185242948_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/d/1/ad1d12cce0d7d6fcee4a115485b5880c-full" tvg-name="SAMANTHA-16_", SAMANTHA-16_
+https://edge-hls.doppiocdn.live/hls/174379372/master/174379372_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/e/d/0ed4fc6c8c8bcf021ab37e45a0323550-full" tvg-name="Abby-me", Abby-me
+https://edge-hls.doppiocdn.live/hls/127379453/master/127379453_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/a/d/0adbe8dd23f2f72be990bc8d357fd589-full" tvg-name="Alisonbossi", Alisonbossi
+https://edge-hls.doppiocdn.live/hls/194641469/master/194641469_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/9/9/99967b4b39657062aae77dc11d9208c4-full" tvg-name="AmazingPartys", AmazingPartys
+https://edge-hls.doppiocdn.live/hls/34357879/master/34357879_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/1/2/31295679ddc001a78e58ed4c8b4119a6-full" tvg-name="Paulet_Vicco", Paulet_Vicco
+https://edge-hls.doppiocdn.live/hls/195553303/master/195553303_auto.m3u8?maxHeight=959&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/1/9/2198bc0d1472f6f859e22384c0c1793f-full" tvg-name="Lisegg_", Lisegg_
+https://edge-hls.doppiocdn.live/hls/29872922/master/29872922_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/f/d/dfd425976f6f5c41ff6d44a0e05b3219-full" tvg-name="niky_smit", niky_smit
+https://edge-hls.doppiocdn.live/hls/80251816/master/80251816_auto.m3u8?playlistType=lowLatency
