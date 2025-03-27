@@ -285,3 +285,9 @@ https://edge-hls.doppiocdn.live/hls/89477506/master/89477506_auto.m3u8?playlistT
 https://edge-hls.doppiocdn.live/hls/168584211/master/168584211_auto.m3u8?maxHeight=959&playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/4/a84abffd5ea28dcddb27224243030fc8-full" tvg-name="Abby15_", Abby15_
 https://edge-hls.doppiocdn.live/hls/97196162/master/97196162_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/f/b/3fbc2b2720a1bd1203595a6f76bd7559-full" tvg-name="NinaInk", NinaInk
+https://edge-hls.doppiocdn.live/hls/143295723/master/143295723_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/8/7/087068ed809978dc88e2c6ac9cb30f41-full" tvg-name="ariana_cross", ariana_cross
+https://edge-hls.doppiocdn.live/hls/124855481/master/124855481_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/a/d/9ad6742351fd0dd7655d4f28214f0ca3-full" tvg-name="Alahia_sky", Alahia_sky
+https://edge-hls.doppiocdn.live/hls/194530734/master/194530734_auto.m3u8?playlistType=lowLatency
