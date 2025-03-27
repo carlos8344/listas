@@ -445,3 +445,21 @@ https://edge-hls.doppiocdn.live/hls/144485816/master/144485816_auto.m3u8?playlis
 https://edge-hls.doppiocdn.live/hls/165865615/master/165865615_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/2/0/e20e88533423610ee0e5c10a3f31a89b-full" tvg-name="Melannytaylor", Melannytaylor
 https://edge-hls.doppiocdn.live/hls/171372422/master/171372422_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/f/1/cf1cf436ef669ce0a25db34489decf84-full" tvg-name="Emma-Conti", Emma-Conti
+https://edge-hls.doppiocdn.live/hls/150810679/master/150810679_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/b/f1b64d8708bb8bc867f1267c38a09378-full" tvg-name="Mia_rom11", Mia_rom11
+https://edge-hls.doppiocdn.live/hls/119937055/master/119937055_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/9/e/39eae0508d677cbe50cf967acc2357ad-full" tvg-name="_noahjones", _noahjones
+https://edge-hls.doppiocdn.live/hls/143823352/master/143823352_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/7/8/378c7363f1b4b0000a71c0a4e4c77943-full" tvg-name="SophiePalmer", SophiePalmer
+https://edge-hls.doppiocdn.live/hls/103114286/master/103114286_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/3/5/a3551c68e1ff052b04cc15c530c2d470-full" tvg-name="Jesica_Paola1", Jesica_Paola1
+https://edge-hls.doppiocdn.live/hls/195239295/master/195239295_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/d/2/5d286272011bce4c1d8cb3779b13b42b-full" tvg-name="Isabella_francoo", Isabella_francoo
+https://edge-hls.doppiocdn.live/hls/135163309/master/135163309_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/c/7/5c7bddb34300407ed31b5a84c097fba0-full" tvg-name="Anastasia_J", Anastasia_J
+https://edge-hls.doppiocdn.live/hls/180999330/master/180999330_auto.m3u8?maxHeight=1079&playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/7/d/87d88f9c6bf869e0651b3ae3601318c6-full" tvg-name="Eliz_jane", Eliz_jane
+https://edge-hls.doppiocdn.live/hls/172461506/master/172461506_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/2/7/427d9baedc231c724f80537ddbe475e0-full" tvg-name="Emma_Lombardi", Emma_Lombardi
+https://edge-hls.doppiocdn.live/hls/157186402/master/157186402_160p_blurred.m3u8?playlistType=lowLatency
