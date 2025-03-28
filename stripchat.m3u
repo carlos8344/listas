@@ -5,9 +5,6 @@ https://exemplo.com/offline.ts
 https://edge-hls.doppiocdn.live/hls/195959888/master/195959888_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/5/0/a50021945a1f5b956e9e77ddeb25e947-full" tvg-name="KarlaHudson", KarlaHudson
 https://edge-hls.doppiocdn.live/hls/195077612/master/195077612_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1, Modelo Offline No Momento
-https://exemplo.com/offline.ts
-# Link original: https://edge-hls.doppiocdn.live/hls/195659514/master/195659514_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/6/f/b6f3910c247cf82b1888ac2f16d265a5-full" tvg-name="PamelaaPonce", PamelaaPonce
 https://edge-hls.doppiocdn.live/hls/187629741/master/187629741_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/f/a/efa9cd568f33d6e6fde66b32778c120a-full" tvg-name="Leia_petro", Leia_petro
