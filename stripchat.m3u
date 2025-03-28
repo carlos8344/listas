@@ -3,13 +3,8 @@ https://exemplo.com/offline.ts
 # Link original: https://exemplo.com/offline.ts
 #EXTINF:-1, Modelo Offline No Momento
 https://exemplo.com/offline.ts
-# Link original: https://edge-hls.doppiocdn.live/hls/195077612/master/195077612_auto.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/f/a/efa9cd568f33d6e6fde66b32778c120a-full" tvg-name="Leia_petro", Leia_petro
-https://edge-hls.doppiocdn.live/hls/195506120/master/195506120_auto.m3u8?playlistType=lowLatency
+# Link original: https://edge-hls.doppiocdn.live/hls/195506120/master/195506120_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/a/f/faf6f0decb8d5a304c36801a45662a4d-full" tvg-name="Hall_sextape", Hall_sextape
 https://edge-hls.doppiocdn.live/hls/134485330/master/134485330_auto.m3u8?maxHeight=1079&playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/b/8/0b8d4d621fa1e852782c8c751bddd716-full" tvg-name="im_lorein", im_lorein
 https://edge-hls.doppiocdn.live/hls/173950615/master/173950615_auto.m3u8?maxHeight=959&playlistType=lowLatency
-#EXTINF:-1, Modelo Offline No Momento
-https://exemplo.com/offline.ts
-# Link original: https://edge-hls.doppiocdn.live/hls/195225055/master/195225055_auto.m3u8?playlistType=lowLatency
